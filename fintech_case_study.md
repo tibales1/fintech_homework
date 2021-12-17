@@ -18,19 +18,18 @@
 * The company can use the location, amount, and type of event of to look for fraud.
 
 * Their customers that use this technology solution are insurance companies, law enforcement, and financial institutions. The unfair advantage
-  is that through the use of their in house spatial algorithms tied to fast datastores then can find fraud or alert a client to potential fraud.
+  is that through the use of their in-house spatial algorithms tied to fast datastores they can find fraud or alert a client to potential fraud.
 
-* To do this they are using Hadoop and inhouse built algorithms.
+* To do this they are using Hadoop and in-house built algorithms.
 
 
 ## Landscape:
 
 * The company provides spatial business intelligence for private firms, non-profits and governmental entities
 
-* The major trends as it relates to the finacial world are deep learning to identify financial fraud based on transactions by type, frequency, and location.
+* The major trends as it relates to the finacial world are deep learning and machine learning to identify financial fraud based on transactions by type, frequency, and location.
 
-* I do not believe that there is another company that can use spatial analytics to identify fraud in real-time or find money luandering schemes.
-
+* I do not believe that there is another company that can use spatial analytics to identify fraud in real-time or find money laundering schemes.
 
 ## Results
 
@@ -46,13 +45,13 @@
 
 ## Recommendations
 
-* I would advise the company to start a bandwith and thorouput map layer that shows connection speeds and areas of limited internet service in real-time as one
-  of there Atlas mapping products with the intention of creating growth in underserved areas.
+* I would advise the company to start a bandwidth and throughput map layer that shows connection speeds and areas of limited internet service in real-time as one
+  of their Atlas mapping products with the intention of creating growth in underserved areas.
 
 * Esri also has an environmental and social component to it and is very concerned about climate change, however, having a mapping product like this would 
-  coincide with there drive to create a more equitable society.
+  coincide with their drive to create a more equitable society.
 
-* It would create more internet access for people which in turn can as a backbone can create more digital banking options.
+* This product would create more internet access for people which in turn can as a backbone can create more digital banking options.
 
 * This technology would change development of fiber and wifi networks which would have an impact on society much like the printing press did.
 
