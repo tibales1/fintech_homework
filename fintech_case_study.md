@@ -15,12 +15,12 @@
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* The company can use the location and amount of a transaction to look for fraud
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* Their customers that use this technology solution are law enforcement and financial institutions. The unfair advantage is that through the 
+  use of their in house spatial algorithms tied to fast datastores then can find fraud or alert a client to potential fraud.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* To do this they are using Hadoop
 
 
 ## Landscape:
@@ -35,6 +35,7 @@ What solution does this company offer that their competitors do not or cannot of
 ## Results
 
 * What has been the business impact of this company so far?
+[link](https://www.esri.com/about/newsroom/publications/wherenext/secret-weapon-fraud/)
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
