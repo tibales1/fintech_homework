@@ -1,16 +1,16 @@
-# TITLE
+# FinTech Case Study -Esri 
 
 ## Overview and Origin
 
-* Name of company
+* Esri
 
-* When was the company incorporated?
+* Founded in 1969
 
-* Who are the founders of the company?
+* Founder - Jack and Laura Dangermon
 
-* How did the idea for the company (or project) come about?
+* The company started as land-use consulting firm and then grew into one of the large software mapping companies.
 
-* How is the company funded? How much funding have they received?
+* The company is funded mostly through selling digital mapping software.
 
 
 ## Business Activities:
@@ -25,9 +25,9 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* The company provides spatial business intelligence for private firms, non-profits and governmental entities
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* The major trends as it relates to the finacial world are deep learning to identify financial fraud based on transactions by type, frequency,     and location
 
 * What are the other major companies in this domain?
 
