@@ -1,4 +1,4 @@
-# FinTech Case Study 
+# FinTech Case Study - Tom Bales 
 
 ## Overview and Origin
 
