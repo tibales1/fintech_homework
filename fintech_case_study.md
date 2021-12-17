@@ -10,15 +10,14 @@
 
 * The company started as land-use consulting firm and then grew into one of the large software mapping companies.
 
-* The company is funded mostly through selling digital mapping software.
+* This private company is funded mostly through selling digital mapping software.
 
 
 ## Business Activities:
 
 * The company can use the location, amount, and type of event of to look for fraud.
 
-* Their customers that use this technology solution are law enforcement and financial institutions. The unfair advantage is that through the 
-  use of their in house spatial algorithms tied to fast datastores then can find fraud or alert a client to potential fraud.
+* Their customers that use this technology solution are insurance companies, law enforcement, and financial institutions. The unfair advantage     is that through the use of their in house spatial algorithms tied to fast datastores then can find fraud or alert a client to potential fraud.
 
 * To do this they are using Hadoop
 
@@ -29,12 +28,12 @@
 
 * The major trends as it relates to the finacial world are deep learning to identify financial fraud based on transactions by type, frequency,     and location
 
-* I do not believe that there is another company that can use spatial analytics to identify fraud in real-time
+* I do not believe that there is another company that can use spatial analytics to identify fraud in real-time or find money luandering schemes.
 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* One impact is to alert insurance companies to potential fraudulent claims by mapping weather events to a claimants physical address.
 [link](https://www.esri.com/about/newsroom/publications/wherenext/secret-weapon-fraud/)
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
