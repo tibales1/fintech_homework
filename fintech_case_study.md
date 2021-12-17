@@ -15,7 +15,7 @@
 
 ## Business Activities:
 
-* The company can use the location and amount of a transaction to look for fraud
+* The company can use the location, amount, and type of event of to look for fraud.
 
 * Their customers that use this technology solution are law enforcement and financial institutions. The unfair advantage is that through the 
   use of their in house spatial algorithms tied to fast datastores then can find fraud or alert a client to potential fraud.
