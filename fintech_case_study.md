@@ -34,7 +34,7 @@
 ## Results
 
 * One impact is to alert insurance companies to potential fraudulent claims by mapping weather events to a claimants physical address.
-[link](https://www.esri.com/about/newsroom/publications/wherenext/secret-weapon-fraud/)
+https://www.esri.com/about/newsroom/publications/wherenext/secret-weapon-fraud/](https://www.esri.com/about/newsroom/publications/wherenext/secret-weapon-fraud/)
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
