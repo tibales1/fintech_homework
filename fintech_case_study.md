@@ -36,7 +36,9 @@
 * One impact is to alert insurance companies to potential fraudulent claims by mapping weather events to a claimants physical address.
 [https://www.esri.com/about/newsroom/publications/wherenext/secret-weapon-fraud/](https://www.esri.com/about/newsroom/publications/wherenext/secret-weapon-fraud/)
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* This company does not release much financial information. But there model for success is to market products to education entities, procure governmwnt contracts including 
+  creating military products, and generaly create a spatial solution for every industry in the world including financial technologies
+  [https://www.esri.com/en-us/industries/financial/business-areas/customer-insights]
 
 * How is your company performing relative to competitors in the same domain?
 
