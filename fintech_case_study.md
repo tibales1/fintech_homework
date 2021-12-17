@@ -1,4 +1,4 @@
-# FinTech Case Study -Esri 
+# FinTech Case Study 
 
 ## Overview and Origin
 
