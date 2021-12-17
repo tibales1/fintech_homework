@@ -29,7 +29,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * The major trends as it relates to the finacial world are deep learning to identify financial fraud based on transactions by type, frequency,     and location
 
-* What are the other major companies in this domain?
+* I do not believe that there is another company that can use spatial analytics to identify fraud in real-time
 
 
 ## Results
